@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaWa3107
+- 👋 Hi, I’m Jannik Walter
 - 👀 I’m interested in App-Development with Kotlin.
 - 🌱 I’m currently learning kotlin and a little bit swift
 - 📫 How to reach me ...
